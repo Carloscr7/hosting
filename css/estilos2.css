@@ -1,0 +1,11 @@
+body{
+    margin: 3em;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.card{
+    transition: transform .5s;
+}
